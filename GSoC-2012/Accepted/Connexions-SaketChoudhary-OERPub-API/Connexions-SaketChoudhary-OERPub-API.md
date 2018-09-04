@@ -34,7 +34,8 @@ I developed a Python based application that would enable runnign Scilab[[http://
 
 2. ** IIT Bombay Grading System on SMS**
 
-**[**[https://github.com/saketkc/iitb-library-sms-interface](https://github.com/saketkc/iitb-library-sms-interface)**]**In a team of 4 I developed a Flask[[http://flask.pocoo.org/](http://flask.pocoo.org/)] based app to scrape through our institute’s Grading interface and send the Grades to a user on his mobile on request. I wrote the Scraping function making use of Beautiful Soup and urlib2 libraries.
+**[**[https://github.com/saketkc/iitb-library-sms-interface](https://github.com/saketkc/iitb-library-sms-interface)**]
+**In a team of 4 I developed a Flask[[http://flask.pocoo.org/](http://flask.pocoo.org/)] based app to scrape through our institute’s Grading interface and send the Grades to a user on his mobile on request. I wrote the Scraping function making use of Beautiful Soup and urlib2 libraries.
 
 3**. Pivotal Tracker Email Bot**
 
@@ -72,7 +73,7 @@ I did my Summer Internship,2011 at SlideShare one of the biggest Ruby on Rails s
 
 3.  What do you hope to gain from participating in this project?
 
-I would gain an indepth knowledge about writing scalable and modular code in Python . Though I have done a lot pf projects invoving Python and JS , but noe  of them have taught me to write scalable code. As this project would actually go live on a Web Server and would be millions of people, not only it should be scalable but thoroughly tested to . 
+I would gain an indepth knowledge about writing scalable and modular code in Python . Though I have done a lot pf projects invoving Python and JS , but none  of them have taught me to write scalable code. As this project would actually go live on a Web Server and would be millions of people, not only it should be scalable but thoroughly tested to . 
 
 presentations and related stuff.
 
